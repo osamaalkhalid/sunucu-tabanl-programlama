@@ -1,4 +1,4 @@
-# sunucu-tabanl-programlama
+# Lokanta Kontrol Paneli
 Web sitemiz, sipariş ekleme, yeni yemek ekleme, masa rezerve etme, fatura oluşturma, eksiksiz hesaplama, silme ve değiştirme işlemlerini gerçekleştirebildiğimiz bir kontrol paneline ek olarak, restoranın ve sunduğu yemeklerin bilgilerini gösteren bir sayfadır.
 Siteyi daha iyi kontrol edebilmek için kullanıcı eklemenin yanı sıra vergi özelliği de ekledik ve faturalara ekledik.
 
