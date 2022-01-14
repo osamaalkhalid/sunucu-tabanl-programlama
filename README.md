@@ -1,6 +1,8 @@
 # sunucu-tabanl-programlama
+Web sitemiz, sipariş ekleme, yeni yemek ekleme, masa rezerve etme, fatura oluşturma, eksiksiz hesaplama, silme ve değiştirme işlemlerini gerçekleştirebildiğimiz bir kontrol paneline ek olarak, restoranın ve sunduğu yemeklerin bilgilerini gösteren bir sayfadır.
+Siteyi daha iyi kontrol edebilmek için kullanıcı eklemenin yanı sıra vergi özelliği de ekledik ve faturalara ekledik.
 
-#Preview
+# Preview
 Sunum dosyasını görüntülemek için lütfen aşağıdaki bağlantıya tıklayınız.
 https://drive.google.com/file/d/136V5yqkN04oKrWTRNCV4FW-RjSIbLIX5/view
 # Created By
